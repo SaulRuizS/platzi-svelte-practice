@@ -9,6 +9,11 @@
       name: "The Last Of Us",
       quantity: 0,
       available: 8
+    },
+    {
+      name: "Spider Man",
+      quantity: 0,
+      available: 11
     }
   ];
 </script>
