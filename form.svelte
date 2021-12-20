@@ -19,6 +19,11 @@
       name: "Eternals",
       quantity: 0,
       available: 3
+    },
+    {
+      name: "Star Wars",
+      quantity: 0,
+      available: 9
     }
   ];
 </script>
